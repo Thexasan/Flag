@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    margin: 0 auto;
+    overflow:hidden;
+}
+
+.picture{
+    background-image: url('./assets/Rectangle copy 8.png');
+    background-size: 100% 100%;
+    height: auto;
+}
